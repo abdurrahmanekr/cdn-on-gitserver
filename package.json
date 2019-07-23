@@ -1,0 +1,14 @@
+{
+  "name": "cdn-on-gitserver",
+  "version": "1.0.0",
+  "description": "CDN on Git Server",
+  "main": "index.js",
+  "repository": "https://github.com/abdurrahmanekr/cdn-on-gitserver",
+  "author": "Avare Kodcu <abdurrahmaneker58@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "form-data": "^2.5.0",
+    "node-fetch": "^2.6.0"
+  }
+}
