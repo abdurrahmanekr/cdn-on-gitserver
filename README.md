@@ -27,7 +27,7 @@ const GitCDN = new CDNOnGitServer({
     }
 });
 
-/* get cdn file
+/* set cdn file
  * * * * * *
  * Response
  * @status: boolean, ex: true
