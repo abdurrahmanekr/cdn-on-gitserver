@@ -6,9 +6,11 @@ A library that can be used to store and manage files on a git server (GitHub, Gi
 
 ```
 npm i cdn-on-gitserver
+```
 
 or 
 
+```
 yarn add cdn-on-gitserver
 ```
 
