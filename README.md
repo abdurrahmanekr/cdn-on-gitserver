@@ -1,6 +1,16 @@
-# CDN on Git Server
+# CDN on Git Server
 
 A library that can be used to store and manage files on a git server (GitHub, GitLab etc.)
+
+# Install
+
+```
+npm i cdn-on-gitserver
+
+or 
+
+yarn add cdn-on-gitserver
+```
 
 # Using
 
