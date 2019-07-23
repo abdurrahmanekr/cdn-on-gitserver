@@ -5,7 +5,7 @@ A library that can be used to store and manage files on a git server (GitHub, Gi
 # Install
 
 ```
-npm i cdn-on-gitserver
+npm i cdn-on-gitserver --save
 ```
 
 or 
