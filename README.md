@@ -27,14 +27,6 @@ const GitCDN = new CDNOnGitServer({
     }
 });
 
-
-/* get cdn file
- * @data: Buffer
-*/
-GitCDN.get('file.txt')
-.then(data => console.log(data));
-
-
 /* get cdn file
  * * * * * *
  * Response
@@ -49,4 +41,12 @@ GitCDN.set({
     authorEmail:  'user@examle.com', // optional
 })
 .then(status => console.log);
+
+
+/* get cdn file
+ * @data: Buffer
+*/
+GitCDN.get('file.txt')
+.then(data => console.log(data));
+
 ```
